@@ -1,1 +1,1 @@
-# Time-Series---Steam-server-usage-forecast
+This is a Time Series Analysis project which fits a time series model to the online user count data on Steam server. This project also predicted the future user usage pattern using a seasonal time series model. 
